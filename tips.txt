@@ -1,0 +1,1 @@
+use expo-cli start --tunnel to make the project appear in Expo App if you can't scan the QR code!
